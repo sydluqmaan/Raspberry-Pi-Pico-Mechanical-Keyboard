@@ -3,7 +3,7 @@
 
 ## Info
 - 3D Printed frame, designed in Fusion 360
-- 82 Keys
+- 84 Keys
 - Runs KMK firmware on a Raspberry Pi Pico
 - Multimedia function keys
 - 6 Key rollover
@@ -24,7 +24,8 @@
 
 
 ## Wiring Layout
-![WiringDiagram](https://github.com/sydluqmaan/Pi-Pico-75-Mechanical-Keyboard/assets/138065925/ed1b9e2b-d832-4adc-82a6-e4e9f2fa0c15)
+![WiringDiagram](https://github.com/sydluqmaan/Raspberry-Pi-Pico-Mechanical-Keyboard/assets/138065925/2046cc17-4533-4503-9189-7701fbee9db8)
+
 
 ## Firmware
 [KMK Firmware](https://github.com/KMKfw/kmk_firmware)
