@@ -9,9 +9,9 @@
 - 6 Key rollover
 
 ## Keyboard
-![Keyboard2](https://github.com/sydluqmaan/Pi-Pico-75-Mechanical-Keyboard/assets/138065925/6b131538-f1c6-474f-bb55-6a3447b6e40a)
-
 ![Keyboard1](https://github.com/sydluqmaan/Pi-Pico-75-Mechanical-Keyboard/assets/138065925/d6140d02-a459-4c5b-9f3b-6f0d23081c5f)
+
+![Keyboard2](https://github.com/sydluqmaan/Pi-Pico-75-Mechanical-Keyboard/assets/138065925/6b131538-f1c6-474f-bb55-6a3447b6e40a)
 
 ![Keyboard4](https://github.com/sydluqmaan/Pi-Pico-75-Mechanical-Keyboard/assets/138065925/6ff7300c-bacf-4782-8324-c840825b71c0)
 
