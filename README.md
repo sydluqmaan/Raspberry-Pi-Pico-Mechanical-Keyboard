@@ -1,12 +1,13 @@
 # Raspberry Pi Pico Mechanical Keyboard
 ![BannerNew](https://github.com/sydluqmaan/Pi-Pico-75-Mechanical-Keyboard/assets/138065925/40b303f7-3e07-4c2b-8bba-8f887bc7ce29)
 
-## Features
-- 3D Printed frame
+## Info
+- 3D Printed frame, designed in Fusion 360
 - 82 Keys
 - Runs KMK firmware on a Raspberry Pi Pico
 - Multimedia function keys
 - 6 Key rollover
+- Uses Kail Jade switches for a heavy and clicky feel
 
 ## Keyboard
 ![Keyboard1](https://github.com/sydluqmaan/Pi-Pico-75-Mechanical-Keyboard/assets/138065925/d6140d02-a459-4c5b-9f3b-6f0d23081c5f)
