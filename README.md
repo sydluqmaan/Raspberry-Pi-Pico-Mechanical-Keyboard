@@ -7,7 +7,7 @@
 - Runs KMK firmware on a Raspberry Pi Pico
 - Multimedia function keys
 - 6 Key rollover
-- Uses Kail Jade switches for a heavy and clicky feel
+- Uses Kailh Jade switches for a heavy and clicky feel
 
 ## Keyboard
 ![Keyboard1](https://github.com/sydluqmaan/Pi-Pico-75-Mechanical-Keyboard/assets/138065925/d6140d02-a459-4c5b-9f3b-6f0d23081c5f)
